@@ -1,2 +1,0 @@
-# rd-c
-redirect repo
